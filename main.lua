@@ -5,3 +5,6 @@ print("hello" .. "world")
 print('hello' .. 'Lua')
 
 print('helloLua')
+
+print([[Hello
+world]])
