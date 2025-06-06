@@ -9,3 +9,9 @@ print( type(user) )
 local user = "mohammad"
 
 print( type(user) )
+
+-- Page 3
+
+user = 5 ; user = 6
+print( (user) )
+print( (user) )
